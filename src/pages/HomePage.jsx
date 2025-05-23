@@ -87,7 +87,7 @@ export default function HomePage() {
             </span>
           </h1>
 
-          <p className="text-xl md:text-2xl mb-8 text-gray-300">Junior Front-End Developer</p>
+          <p className="text-xl md:text-2xl mb-8 text-gray-300"> Front-End Developer</p>
 
           <p className="text-lg mb-12 text-gray-400 max-w-2xl mx-auto">
             Passionate about creating beautiful, responsive web experiences with modern technologies like React,
