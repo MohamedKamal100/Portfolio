@@ -260,8 +260,8 @@ export default function HomePage() {
                   <div>
                     <div className="font-semibold">Email</div>
                     <div className="text-gray-300">
-                      <a href="mailto:m7maaa@gmail.com" className="hover:text-blue-400 transition-colors">
-                        m7maaa@gmail.com
+                      <a href="mailto:m7maaa82@gmail.com" className="hover:text-blue-400 transition-colors">
+                        m7maaa82@gmail.com
                       </a>
                     </div>
                   </div>
