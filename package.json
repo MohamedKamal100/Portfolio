@@ -3,14 +3,16 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+   "homepage": "https://MohamedKamal100.github.io/Portfolio",
   "scripts": {
-    "homepage": "https://MohamedKamal100.github.io/Portfolio",
+   
 
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+"deploy": "gh-pages -d dist",
+
     "preview": "vite preview"
   },
   "dependencies": {

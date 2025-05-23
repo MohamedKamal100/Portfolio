@@ -1,7 +1,3 @@
-import bookmarkImage from "../assets/bookmark.png" // You'll need to add this image
-import freshCartImage from "../assets/freshcart.png" // You'll need to add this image
-import portfolioImage from "../assets/portfolio.jpg" // You'll need to add this image
-
 export default function ProjectsPage() {
   const projects = [
     {
@@ -9,27 +5,27 @@ export default function ProjectsPage() {
       description:
         "A simple CRUD application where users can save and manage their favorite websites. Features live form validation, real-time search, and smooth animations using Bootstrap and SweetAlert2.",
       tech: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "SweetAlert2", "LocalStorage"],
-      image: bookmarkImage,
-      github: "https://lnkd.in/dKvbsNBw",
-      demo: "https://lnkd.in/difsx4Ae",
+
+      github: "https://github.com/MohamedKamal100/Bookmark-project",
+      demo: "https://mohamedkamal100.github.io/Bookmark-project/",
     },
     {
       title: "Fresh Cart E-commerce",
       description:
         "A modern, fully responsive e-commerce web app with user authentication, product filtering, shopping cart management, and smooth animations using Framer Motion.",
       tech: ["React", "Tailwind CSS", "Vite", "React Query", "Axios", "Formik"],
-      image: freshCartImage,
-      github: "https://lnkd.in/dtRmpnrT",
-      demo: "https://lnkd.in/dxF8JgS7",
+
+      github: "https://github.com/MohamedKamal100/E-Commerce",
+      demo: "https://mohamedkamal100.github.io/E-Commerce/",
     },
     {
       title: "Portfolio Website",
       description:
         "A responsive portfolio website showcasing my projects and skills, built with React and featuring an animated star background using Canvas API.",
-      tech: ["React", "Tailwind CSS", "Canvas API", "JavaScript"],
-      image: portfolioImage,
-      github: "https://github.com/MohamedKamal100",
-      demo: "#",
+      tech: ["React", "Tailwind CSS"],
+
+      github: "https://github.com/MohamedKamal100/Portfolio",
+      demo: "https://mohamedkamal100.github.io/Portfolio/",
     },
   ]
 
